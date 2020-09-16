@@ -1,6 +1,8 @@
-.*\.pyc
-.*\.egg
-.*\.so
+*.py[cod]
+*.pyc
+*.egg
+*.so
+
 build/
 dist/
 env/
@@ -24,7 +26,7 @@ sphinxcontrib-matlabdomain.sublime-workspace
 .project
 .pydevproject
 .settings/org.eclipse.core.resources.prefs
-.git/
+# .git/
 
 zopeext/htmlcov/
 zopeext/.cache/
